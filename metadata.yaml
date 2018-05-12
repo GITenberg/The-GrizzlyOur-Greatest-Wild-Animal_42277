@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33404
     wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42277#The-GrizzlyOur-Greatest-Wild-Animal
 gutenberg_issued: '2013-03-08'
 gutenberg_type: Text
 identifiers:
